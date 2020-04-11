@@ -30,18 +30,10 @@ This book takes you through:
 
 ## Resources
 
-### List of commands
-
-See the [commands](commands/) folder for text files that let you easily copy and paste the commands from the hands-on exercises.
-
 ### Figures
 
 For those of you reading the print version of the book, which does not include color figures, we've made the figures available in the [figures](https://console.cloud.google.com/storage/browser/genomics-in-the-cloud/figures/) directory of the GCS bucket.  
 You may use all figures except 3-3 and 6-15 in your own non-commercial work, preferably with a notice of attribution referring to the book. For commercial use, please contact permissions@oreilly.com. Figures 3-3 and 6-15 do not belong to us, so you must request permission from their respective owners, which are noted in the book.
-
-### Blog
-
-We're developing a blog for the book at [https://broadinstitute.github.io/genomics-in-the-cloud/](https://broadinstitute.github.io/genomics-in-the-cloud/) where we will publish blog posts, additional tutorials, errata for the book, and regular updates on new features that you maay be interested in. Feel free to suggest blog topics by reaching out to us on Twitter or LinkedIn (see contact info below).
 
 ### Reporting errors 
 
