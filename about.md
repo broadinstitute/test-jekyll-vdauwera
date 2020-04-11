@@ -48,7 +48,9 @@ If you notice any errors in any blog post or want to discuss a topic we raised, 
 
 For all materials related directly to the book itself, see the master branch of the [Github repository](https://github.com/broadinstitute/genomics-in-the-cloud).
 
-### Getting in touch with us
+----
+
+## Getting in touch with us
 If you'd like to get in touch, you can reach us on Twitter (@VdAGeraldine and @boconnor) and on LinkedIn ([Geraldine](https://www.linkedin.com/in/geraldine-van-der-auwera-5a5811) and [Brian](https://www.linkedin.com/in/briandoconnor/)). We look forward to hearing what you think of the book! If you like it, please consider posting a review on Amazon. 
 
 
